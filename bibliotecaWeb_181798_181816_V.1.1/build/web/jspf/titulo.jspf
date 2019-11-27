@@ -1,0 +1,11 @@
+<%-- Este fragmento de página JSP es la barra de título de la acplicación
+     BibliotecaWeb
+--%>
+<%@ page pageEncoding="UTF-8" %>
+<div class="encabezado">
+    <div class="titulo">
+        <%-- <img class="titulo" alt="titulo" src="imagenes/titulo.PNG" width="800px"
+             height="150px"> --%>
+        <h1>BibliotecaWeb</h1>
+    </div>
+</div>

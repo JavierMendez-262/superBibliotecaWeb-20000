@@ -1,0 +1,13 @@
+<%-- Este fragmento de página JSP es el menú principal de Revistas de la 
+     aplicación BibliotecaWeb versión JSTL 
+--%>
+<%@ page pageEncoding="UTF-8" %>
+<div id="menuppal">
+    <ul id="menu">
+        <li><a href="control?tarea=agregarRevista">Agregar revista</a></li>
+        <li><a href="control?tarea=actualizarRevista">Actualizar revista</a></li>
+        <li><a href="control?tarea=eliminarRevista">Eliminar revistas</a></li>
+        <li><a href="control?tarea=listarRevistas">Consultar revistas</a></li>
+        <li><a href="index.jsp">Regresar al menú principal</a></li>
+    </ul>
+</div>

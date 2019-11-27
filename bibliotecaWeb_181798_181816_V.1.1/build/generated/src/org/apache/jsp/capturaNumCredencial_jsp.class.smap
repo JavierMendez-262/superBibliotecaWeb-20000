@@ -1,0 +1,22 @@
+SMAP
+capturaNumCredencial_jsp.java
+JSP
+*S JSP
+*F
++ 0 capturaNumCredencial.jsp
+capturaNumCredencial.jsp
++ 1 titulo.jspf
+jspf/titulo.jspf
++ 2 menuUsuarios.jspf
+jspf/menuUsuarios.jspf
+*L
+5,12:50
+3#1,10:62
+16#0,2:71
+3#2,9:73
+17#0,12:81
+29:93,3
+30,2:96
+32,2:98,3
+34,19:104
+*E

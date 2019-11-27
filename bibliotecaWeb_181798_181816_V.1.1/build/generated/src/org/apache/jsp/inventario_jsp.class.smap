@@ -1,0 +1,18 @@
+SMAP
+inventario_jsp.java
+JSP
+*S JSP
+*F
++ 0 inventario.jsp
+inventario.jsp
++ 1 titulo.jspf
+jspf/titulo.jspf
++ 2 menuInventario.jspf
+jspf/menuInventario.jspf
+*L
+8,12:50
+3#1,10:62
+19#0,2:71
+3#2,11:73
+20#0,4:83
+*E

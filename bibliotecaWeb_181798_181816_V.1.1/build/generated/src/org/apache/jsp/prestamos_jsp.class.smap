@@ -1,0 +1,18 @@
+SMAP
+prestamos_jsp.java
+JSP
+*S JSP
+*F
++ 0 prestamos.jsp
+prestamos.jsp
++ 1 titulo.jspf
+jspf/titulo.jspf
++ 2 menuPrestamos.jspf
+jspf/menuPrestamos.jspf
+*L
+8,12:50
+3#1,10:62
+19#0,2:71
+3#2,13:73
+20#0,4:85
+*E

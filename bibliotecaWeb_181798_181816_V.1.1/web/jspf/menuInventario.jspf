@@ -1,0 +1,12 @@
+<%-- Este fragmento de página JSP es el menú principal del inventario de la 
+     biblioteca de la aplicación BibliotecaWeb versión JSTL 
+--%>
+<%@ page pageEncoding="UTF-8" %>
+<div id="menuppal">
+    <ul id="menu">
+        <li><a href="control?tarea=inventariarRevista">Inventariar revista</a></li>
+        <li><a href="control?tarea=desinventariarRevista">Desinventariar revista</a></li>
+        <li><a href="control?tarea=listarInventarioRevistas">Consultar inventario de revistas</a>
+        <li><a href="index.jsp">Regresar al menú principal</a></li>
+    </ul>
+</div>

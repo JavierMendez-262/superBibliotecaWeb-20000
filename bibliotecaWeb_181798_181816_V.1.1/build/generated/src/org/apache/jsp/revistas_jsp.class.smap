@@ -1,0 +1,18 @@
+SMAP
+revistas_jsp.java
+JSP
+*S JSP
+*F
++ 0 revistas.jsp
+revistas.jsp
++ 1 titulo.jspf
+jspf/titulo.jspf
++ 2 menuRevistas.jspf
+jspf/menuRevistas.jspf
+*L
+8,12:50
+3#1,10:62
+19#0,2:71
+3#2,12:73
+20#0,4:84
+*E

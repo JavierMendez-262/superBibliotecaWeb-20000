@@ -1,0 +1,14 @@
+<%-- Este fragmento de página JSP es el menú principal de prestamos de la 
+     biblioteca de la aplicación BibliotecaWeb versión JSTL 
+--%>
+<%@ page pageEncoding="UTF-8" %>
+<div id="menuppal">
+    <ul id="menu">
+        <li><a href="control?tarea=prestarRevista">Prestar revista</a></li>
+        <li><a href="control?tarea=devolverRevista">deolver revista</a></li>
+        <li><a href="control?tarea=listarPrestamosRevistas">Consultar prestamos de revistas</a></li>
+        <li><a href="control?tarea=listarPrestamosRevistasPeriodo">Listar Prestamos de Revistas por Periodo</a></li>
+        <li><a href="index.jsp">Regresar al menú principal</a></li>
+    </ul>
+</div>
+

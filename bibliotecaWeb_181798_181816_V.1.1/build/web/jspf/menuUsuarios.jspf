@@ -1,0 +1,10 @@
+<%-- Este fragmento de página JSP es el menú principal de usuarios de la 
+     aplicación BibliotecaWeb versión JSTL 
+--%>
+<%@ page pageEncoding="UTF-8" %>
+<div id='menuppal'>
+    <ul id='menu'>
+        <li><a href="control?tarea=agregarUsuario">Agregar usuario</a></li>
+        <li><a href="index.jsp">Regresar al menú principal</a></li>
+    </ul>
+</div>

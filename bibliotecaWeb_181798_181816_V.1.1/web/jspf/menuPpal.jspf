@@ -1,0 +1,12 @@
+<%-- Este fragmento de página JSP es el menú principal de la aplicación
+     BibliotecaWeb versión JSP 
+--%>
+<%@ page pageEncoding="UTF-8" %>
+<div id="menuppal">
+    <ul id="menu">
+        <li><a href="revistas.jsp">Catálogo de revistas</a></li>
+        <li><a href="usuarios.jsp">Catálogo de usuarios</a></li>
+        <li><a href="inventario.jsp">Inventario de revistas</a></li>
+        <li><a href="prestamos.jsp">Préstamos de revistas</a></li>
+    </ul>
+</div>
