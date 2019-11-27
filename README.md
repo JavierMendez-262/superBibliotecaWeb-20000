@@ -1,2 +1,2 @@
-# superBibliotecaWeb-20000
+# bibliotecaWeb
 Proyecto para Aplicaciones Web
